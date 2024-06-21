@@ -4,7 +4,7 @@ Go generated proto packages
 [![GoDoc](https://godoc.org/google.golang.org/genproto?status.svg)](https://godoc.org/google.golang.org/genproto)
 
 ```
-go get google.golang.org/genproto/...
+代替： google.golang.org/genproto/...
 ```
 > **WARNING(2023-05-26):** New submodules: upgrade before 2024-03-01 to avoid
 > ambiguous import errors with
